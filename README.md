@@ -49,37 +49,39 @@ This project implements an automated attendance system using facial recognition.
 ---
 
 ## 🚀 How to Run
--- Add training images
+- Add training images
 
-Place clear frontal face images of students in the student_images/ folder.
+  Place clear frontal face images of students in the student_images/ folder.
 
-Ensure each image filename matches the student's name (e.g., JohnDoe.jpg).
+  Ensure each image filename matches the student's name (e.g., JohnDoe.jpg).
 
--- Run the script
+- Run the script
 
-Run app.py in python interpreter(prefer:python 3.9.13)
+  Run app.py in python interpreter(prefer:python 3.9.13)
 
---Use the GUI
+-Use the GUI
 
-Click Start Recognition to begin detecting faces via webcam.
+  Click Start Recognition to begin detecting faces via webcam.
 
-Click Stop Recognition to end the recognition process.
+  Click Stop Recognition to end the recognition process.
 
-Press Exit to close the application.
+  Press Exit to close the application.
 
 ---
 
 ## 🧪 Output Example (Attendance.csv)
+
 Once a face is recognized, attendance is recorded in the Attendance.csv file, which will look something like this:
 
-Example,
+Example:
+
 Name | Log In Time | Date
 johndoe | 09:45:12 AM | 07-May-2025
 janedoe | 09:46:25 AM | 07-May-2025
 
---Name: The name of the recognized individual.
---Log In Time: The time when the individual was detected.
---Date: The date of attendance.
+-Name: The name of the recognized individual.
+-Log In Time: The time when the individual was detected.
+-Date: The date of attendance.
 
 
 
