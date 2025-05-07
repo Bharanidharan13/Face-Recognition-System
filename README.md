@@ -75,9 +75,9 @@ Once a face is recognized, attendance is recorded in the Attendance.csv file, wh
 
 Example:
 
-Name | Log In Time | Date
-johndoe | 09:45:12 AM | 07-May-2025
-janedoe | 09:46:25 AM | 07-May-2025
+- Name | Log In Time | Date
+- Johndoe | 09:45:12 AM | 07-May-2025
+- Michael | 09:46:25 AM | 07-May-2025
 
 - Name: The name of the recognized individual.
 - Log In Time: The time when the individual was detected.
