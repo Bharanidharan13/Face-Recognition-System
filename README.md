@@ -59,7 +59,7 @@ This project implements an automated attendance system using facial recognition.
 
   Run app.py in python interpreter(prefer:python 3.9.13)
 
--Use the GUI
+- Use the GUI
 
   Click Start Recognition to begin detecting faces via webcam.
 
@@ -79,9 +79,9 @@ Name | Log In Time | Date
 johndoe | 09:45:12 AM | 07-May-2025
 janedoe | 09:46:25 AM | 07-May-2025
 
--Name: The name of the recognized individual.
--Log In Time: The time when the individual was detected.
--Date: The date of attendance.
+- Name: The name of the recognized individual.
+- Log In Time: The time when the individual was detected.
+- Date: The date of attendance.
 
 
 
